@@ -19,5 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nira-njan&show_icons=true&locale=en" alt="nira-njan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nira-njan&" alt="nira-njan" /></p>
-
-[snake gif](https://github.com/Nira-njan/Nira-njan/blob/output/github-snake-dark.svg)
